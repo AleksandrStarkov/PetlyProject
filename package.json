@@ -2,7 +2,7 @@
   "name": "petly-team-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AleksandrStarkov.github.io/PetlyProject/",
+  "homepage": "https://AleksandrStarkov.github.io/PetlyProject",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
